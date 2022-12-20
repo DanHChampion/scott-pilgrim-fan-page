@@ -1,5 +1,5 @@
 # ScottPilgrimFanPage
-Programming Black Assignment 1
+Project in 2020
 
 # npm install
 installs all the dependencies
